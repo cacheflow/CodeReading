@@ -1,4 +1,4 @@
-## This code belongs to Brian Adkins 
+## Brian Adkins spelling corrector code
 
 def words (text)
   text.downcase.scan(/[a-z]+/)
